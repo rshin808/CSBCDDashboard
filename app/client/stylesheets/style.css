@@ -1,0 +1,48 @@
+body, html {
+  padding-top: 10px;  /* Move body of page below navbar. */
+  background-color: black;
+  color: yellow;
+  height: 100%
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.well {
+  background-color: dimgrey;
+  border-color: dimgrey;
+}
+
+.container {
+}
+
+.page-content {
+  padding: 10px;
+  text-align: center;
+}
+
+
+.col {
+  display: table-cell;
+  width: 50%;
+  border-radius: 5px;
+}
+
+.row {
+  display: table;
+  width: 100%;
+  text-align: center;
+}
+
+.h2 {
+  color: yellow;
+}
+
+
+.h3 {
+  color: yellow;
+}
+
+
+.h4 {
+  color: yellow;
+}
